@@ -62,3 +62,9 @@ body{
 .bg-g{
     background: #444343;
 }
+@media screen and (max-width: 600px) {
+  .row input {
+    width:100%;
+    padding: 10px;
+  }
+}
